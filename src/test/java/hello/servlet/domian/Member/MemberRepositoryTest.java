@@ -26,4 +26,14 @@ class MemberRepositoryTest {
         Assertions.assertThat(findMember).isEqualTo(savedMember);
     }
 
+    @Test
+    void findAll(){
+        //given
+        new Member("")
+        //when
+
+        //then
+
+    }
+
 }
